@@ -1,4 +1,4 @@
-% Q1b Hermite Interpolation with Lagrange Basis---------------------------------
+% HW06 Q1b Hermite Interpolation with Lagrange Basis---------------------------------
 
 clc;
 clear;
