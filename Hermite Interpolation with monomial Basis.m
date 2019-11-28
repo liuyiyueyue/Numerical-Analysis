@@ -1,4 +1,4 @@
-% Q1a Hermite Interpolation with monomial Basis------------------------------------------------------
+% HW06 Q1a Hermite Interpolation with monomial Basis------------------------------------------------------
 
 clc;
 clear;
@@ -29,7 +29,6 @@ a = V\y
  title('Q1a Hermite Interpolation with monomial Basis'); xlabel('x'); ylabel('y');
  legend("interploation points", "Hermite interpolation polynomial with monomial Basis");
  
-
  
  function pVal = HornerV(a,z)
 % pVal = HornerV(a,z)
