@@ -1,4 +1,4 @@
-% Q3 parametric natural cubic splines ------------------------------------
+% HW06 Q3 parametric natural cubic splines ------------------------------------
 
 clc;
 clear;
