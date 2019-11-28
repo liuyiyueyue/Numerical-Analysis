@@ -1,4 +1,4 @@
-% Q4 least square problems ----------------------------------------------------
+% HW06 Q4 least square problems ----------------------------------------------------
 clc;
 format long;
 
