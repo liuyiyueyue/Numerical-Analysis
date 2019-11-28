@@ -1,4 +1,4 @@
-% Q1c Hermite Interpolation with Newtone Basis------------------------------------------------------
+% HW06 Q1c Hermite Interpolation with Newtone Basis------------------------------------------------------
 
 clc;
 clear;
