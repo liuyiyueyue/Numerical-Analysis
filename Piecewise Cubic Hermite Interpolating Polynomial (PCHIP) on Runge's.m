@@ -1,4 +1,4 @@
-% Q2b Piecewise Cubic Hermite Interpolating Polynomial (PCHIP) on Runge's ------------------------
+% HW06 Q2b Piecewise Cubic Hermite Interpolating Polynomial (PCHIP) on Runge's ------------------------
 
 clc;
 clear;
